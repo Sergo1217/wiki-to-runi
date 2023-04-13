@@ -3,8 +3,7 @@
 // @name:ru          Переадресация Вики на Руниверсалис
 // @description      Redirects Wikipedia to the Runi domain
 // @description:ru   Автоматическая переадресация Википедии на Руниверсалис
-// @namespace        http://tampermonkey.net/
-// @version          1.0
+// @version          1.0.1
 // @author           Sergo1217
 // @match            *://*.wikipedia.org/*
 // @icon             https://руни.рф//resources/assets/logo-icon-new.svg
