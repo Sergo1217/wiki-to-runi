@@ -3,7 +3,7 @@
 // @name:ru          Переадресация Вики на Руниверсалис
 // @description      Redirects Wikipedia to the Runi domain
 // @description:ru   Автоматическая переадресация Википедии на Руниверсалис
-// @version          1.1.0
+// @version          2.0
 // @author           Sergo1217
 // @match            *://*.wikipedia.org/*
 // @icon             https://руни.рф//resources/assets/logo-icon-new.svg
