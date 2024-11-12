@@ -32,11 +32,11 @@
                     window.location.replace(newURL);
                 } else {
                     // Если страницы нет, выводим сообщение в консоль
-                    console.log("Страница на Руниверсалис не найдена:", newURL);
+                    console.log("Страница на Рувики не найдена:", newURL);
                 }
             },
             onerror: function(error) {
-                console.error("Ошибка запроса к Руниверсалис:", error);
+                console.error("Ошибка запроса к Рувики:", error);
             }
         });
     }
