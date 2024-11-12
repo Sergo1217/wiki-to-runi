@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name             Wiki to Runi Redirector
+// @name             Wiki to Ruwiki Redirector
 // @name:ru          Переадресация Вики на Рувики
 // @description      Redirects Wikipedia to the Ruwiki domain
 // @description:ru   Автоматическая переадресация Википедии на Руниверсалис
