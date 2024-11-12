@@ -8,10 +8,10 @@
 // @match            *://*.wikipedia.org/*
 // @icon             https://static.tildacdn.com/tild6363-6230-4666-b365-393162643334/Logo_new.svg
 // @grant            GM_xmlhttpRequest
-// @updateURL        https://raw.githubusercontent.com/sergo1217/wiki-to-runi/master/wiki-to-ruwiki.user.js
-// @downloadURL      https://raw.githubusercontent.com/sergo1217/wiki-to-runi/master/wiki-to-ruwiki.user.js
-// @supportURL       https://github.com/sergo1217/wiki-to-runi/issues
-// @homepageURL      https://github.com/sergo1217/wiki-to-runi
+// @updateURL        https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-ruwiki.user.js
+// @downloadURL      https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-ruwiki.user.js
+// @supportURL       https://github.com/sergo1217/wiki-redirect/issues
+// @homepageURL      https://github.com/sergo1217/wiki-redirect
 // ==/UserScript==
 
 (function() {
