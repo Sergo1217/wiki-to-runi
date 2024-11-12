@@ -8,10 +8,10 @@
 // @match            *://*.wikipedia.org/*
 // @icon             https://руни.рф//resources/assets/logo-icon-new.svg
 // @grant            GM_xmlhttpRequest
-// @updateURL        https://raw.githubusercontent.com/sergo1217/wiki-to-runi/master/wiki-to-runi.user.js
-// @downloadURL      https://raw.githubusercontent.com/sergo1217/wiki-to-runi/master/wiki-to-runi.user.js
-// @supportURL       https://github.com/sergo1217/wiki-to-runi/issues
-// @homepageURL      https://github.com/sergo1217/wiki-to-runi
+// @updateURL        https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-runi.user.js
+// @downloadURL      https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-runi.user.js
+// @supportURL       https://github.com/sergo1217/wiki-redirect/issues
+// @homepageURL      https://github.com/sergo1217/wiki-redirect
 // ==/UserScript==
 
 (function() {
